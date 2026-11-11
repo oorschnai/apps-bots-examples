@@ -1,0 +1,11 @@
+{
+  "name": "apps-telegraf-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}

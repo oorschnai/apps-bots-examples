@@ -1,0 +1,11 @@
+{
+  "name": "apps-grammy-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "grammy": "^1.46.0"
+  }
+}
